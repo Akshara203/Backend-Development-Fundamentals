@@ -1,11 +1,11 @@
 # Lab 1: Node.js and Express server
 
 **Name:** Akshara  
-**Registration number:** YOUR_REGISTRATION_NUMBER  
-**Section:** YOUR_SECTION  
+**Registration number:** 252U1R7079  
+**Section:** CSE(FSD)-2B  
 
 ## Live link
-Not deployed yet. Run the project locally using the steps below. Add your deployed public URL here after deployment.
+Not deployed yet. Run the project locally using the steps below. Add your deployed public URL here after deployment
 
 ## Objective
 Set up a Node.js project and build a small web server using the built-in `http` module, then build the same server using Express.
