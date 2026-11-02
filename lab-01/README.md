@@ -55,19 +55,14 @@ Open these URLs in a browser:
 The terminal logs the HTTP method, requested path and returned status code for each request.
 
 ## Screenshots
-Save screenshots of the working browser output in this folder and add them below.
 
-- Home route: `screenshots/home.png`
-- About route: `screenshots/about.png`
-- Time route: `screenshots/time.png`
-- Unknown route (404): `screenshots/not-found.png`
 
-<!-- Add images after capturing them:
+
 ![Home route](screenshots/home.png)
-![About route](screenshots/about.png)
+![About route](screenshots/aboutt.png)
 ![Time route](screenshots/time.png)
-![404 route](screenshots/not-found.png)
--->
+![404 route](screenshots/404.png)
+
 
 ## Notes: problems faced and how I solved them
 - If `npm` commands do not work, check that Node.js is installed and restart the terminal.
