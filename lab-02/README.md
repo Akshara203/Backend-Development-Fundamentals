@@ -1,8 +1,8 @@
 # Lab 2: SQLite database and CRUD routes
 
 **Name:** Akshara  
-**Registration number:** YOUR_REGISTRATION_NUMBER  
-**Section:** YOUR_SECTION  
+**Registration number:** 252U1R7079  
+**Section:** CSE(FSD)-2B  
 
 ## Live link
 Not deployed yet. Add the public URL after deployment. If deployment is not possible, include Postman screenshots for every endpoint.
